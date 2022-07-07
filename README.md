@@ -2,7 +2,7 @@
 
 If you want the .app file  
 - Go to the Releases page and download "OpenNewFinder.app".  
-- Please read the notes on the Releases page.
+- Please read the notes on the Releases page.  
 https://github.com/KANIYONIKA/OpenNewFinder/releases
 
 If you build it yourself  
@@ -16,7 +16,7 @@ If you build it yourself
 
 .app ファイルが欲しい場合  
 - Releasesページにアクセスし、"OpenNewFinder.app"をDLして下さい。
-- 注意事項は、Releasesページに記載しましたのでお読み下さい。
+- 注意事項は、Releasesページに記載しましたのでお読み下さい。  
 https://github.com/KANIYONIKA/OpenNewFinder/releases
 
 自分でビルドする場合  

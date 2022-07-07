@@ -1,3 +1,6 @@
+![demo](https://i.imgur.com/nEZMiyT.gif)
+
+
 # How To Install
 
 If you want the .app file  

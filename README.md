@@ -1,5 +1,11 @@
 ![demo](https://i.imgur.com/nEZMiyT.gif)
 
+# What is this
+This opens the Finder in a new window on the current desktop, even if the Finder is open on some other desktop. It is quite convenient.  
+<BR>
+Finderがどこかのデスクトップで開かれていても、現在のデスクトップに新しいウィンドウでFinderを開きます。結構便利です。  
+
+<BR>
 
 # How To Install
 
@@ -28,13 +34,6 @@ https://github.com/KANIYONIKA/OpenNewFinder/releases
 
 
 >`Alfred や Raycast などのランチャーで、"OpenNewFinder.app" へのホットキーを設定するとさらに便利になると思います。`
-
-<BR>
-
-# What is this
-This opens the Finder in a new window on the current desktop, even if the Finder is open on some other desktop. It is quite convenient.  
-<BR>
-Finderがどこかのデスクトップで開かれていても、現在のデスクトップに新しいウィンドウでFinderを開きます。結構便利です。  
 
 <BR>
 
